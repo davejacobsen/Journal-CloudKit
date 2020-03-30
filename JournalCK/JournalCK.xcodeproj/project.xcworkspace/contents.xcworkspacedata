@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:CloudKitJournal.xcodeproj">
+      location = "self:JournalCK.xcodeproj">
    </FileRef>
 </Workspace>
